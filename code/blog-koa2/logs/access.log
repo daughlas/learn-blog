@@ -1,0 +1,2 @@
+::1 - - [27/Jun/2019:07:18:04 +0000] "GET /api/blog/detail?id=15 HTTP/1.0" 200 171 "http://localhost:8080/detail.html?id=15" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"
+::ffff:127.0.0.1 - - [27/Jun/2019:07:18:07 +0000] "GET /api/blog/detail?id=5 HTTP/1.0" 200 160 "http://localhost:8080/detail.html?id=5" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36"

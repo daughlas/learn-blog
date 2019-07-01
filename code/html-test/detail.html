@@ -80,6 +80,7 @@
 
             // 显示数据
             const data = res.data || {}
+            console.log(data.title)
             $title.text(data.title)
             $content.text(data.content)
             $infoContainer.append($(`

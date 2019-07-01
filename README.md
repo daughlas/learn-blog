@@ -12,3 +12,4 @@
 
 ## 开发
 * 打开 redis， `redis-server`
+* 打开 nginx，`nginx`
